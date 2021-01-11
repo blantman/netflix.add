@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+.header {
+    height: 500px;
+    background-color: black;
+}

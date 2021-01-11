@@ -1,0 +1,114 @@
+.header {
+  background-color: blue;
+  background-image: url(https://discord.com/assets/c2c1e3540ac7dc4fe0c0a7625bce975c.svg);
+  position: absolute;
+  height: 600px;
+  padding: 0 400px;
+  margin: 0 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+body {
+  margin: 0;
+}
+
+.secthion_one {
+  display: flex;
+  height: 1000px;
+}
+
+.banner_title {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 55px;
+  text-align: center;
+  max-width: 230px 80px;
+  padding: 50px 0;
+}
+
+.banner_subtitle {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cta_download_button {
+  border-radius: 30px;
+  font-size: 30px;
+  padding: 15px 20px;
+  margin: 20px 100px;
+  color: black;
+  background-color: white;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 5px 0 rgba(0, 0, 0, 0.51); 
+}
+
+.enter_cta {
+  border-radius: 30px;
+  font-size: 25px;
+  color: black;
+  background-color: white;
+  border: none;
+  margin: 1px 0px;
+
+}
+
+.cta_browser {
+  border-radius: 30px;
+  font-size: 30px;
+  padding: 18px 43px;
+  margin: 2px 100px;
+  color: white;
+  background-color: black;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 5px 0 rgba(0, 0, 0, 0.51);
+}
+
+.header_logo {
+  width: 170px;
+  height: 100px;
+}
+
+.a_1 {
+  color: white;
+  font-size: 20px;
+  font-family: fantasy;
+  margin: 0 30px;
+  display: inline-block;
+}
+
+.header_two {
+  height: 550px;
+  background-color: green;
+  margin: 600px 0;
+}
+
+.banner_two {
+  color: black;
+  text-align: right;
+  font-size: 48px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: box;
+}
+
+.subtitle_two {
+  color: black;
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin: 0 710px;
+  padding: 0;
+}
+
+.img_two {
+  width: 500px;
+  height: 450px;
+}
+

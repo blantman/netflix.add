@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+}
+
+.header {
+  padding: 0 80px;
+  position: fixed;
+  background-color: black;
+  height: 80px;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.banner {
+  color: black;
+  background-color: black;
+  font-family: monospace;
+  padding: 230px 80px;
+  background-image: url(https://www.buro247.kz/thumb/1000x600_5/local/images/buro/new/panelka-estetika-2.jpg);
+}
+
+.banner_title {
+  font-size: 50px;
+  max-width: 300px;
+}
+
+.banner_subtitle {
+  font-size: 28px;
+  max-width: 570px;
+}
+
+.header_logo {
+  width: 40px;
+}
+
+body {
+  margin: 0;
+  height: 2000px;
+  padding-top: 80px;
+}
+
+

@@ -1,0 +1,193 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 930px;
+  background-image: url(https://assets.nflxext.com/ffe/siteui/allow-robots/contentSampling/seo-watch-free-link-preview.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  display: flex;
+}
+
+.line {
+  border:3px solid gray;
+}
+
+.general_info {
+  color: white;
+  font-size: 60px;
+}
+
+.info_box {
+  width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+
+p {
+  color: white;
+  font-size: 20px;
+  
+}
+
+.make_money {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 950px;
+}
+
+.free {
+  background-color: #e50914;
+  color: white;
+  height: 60px;
+  font-size: 26px;
+  padding: 0 26px;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 2px;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, .45);
+  cursor: pointer;
+}
+
+.mail {
+  font-size: 36px;
+  padding: 5px 28px;
+}
+
+.flod {
+  display: flex;
+  justify-content: center;
+  padding: 100px 0;
+}
+
+.enter {
+  display: flex;
+  padding: 30px 100px;
+}
+
+.enter_cta {
+  color: white;
+  background-color: red;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 3px;
+  padding: 9px 15px;
+  margin-left: auto;
+}
+
+.flod--reverse {
+  flex-direction: row-reverse;
+}
+
+.tv {
+  height: 100px;
+  width: 580px;
+}
+
+h2 {
+  color: white;
+  font-size: 60px;
+}
+
+.gif {
+  height: 350px;
+  width: 320px;
+}
+
+.flod:not(.flod--reverse) .gif {
+  margin-left: 60px;
+}
+
+.flod--reverse .gif {
+  margin-right: 60px;
+}
+
+h3 {
+  font-size: 50px;
+  color: white;
+}
+
+.make_money_sekond {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 950px;
+}
+
+.end {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.end_info {
+  display: flex;
+  padding: 25px 0;
+}
+
+.links_end {
+  color: gray;
+  font-size: 15px;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 15px;
+  margin-right: 35px;
+}
+
+.idk {
+  color: gray;
+}
+
+.uk {
+  color: gray;
+  font-size: 14px;
+}
+
+.flod_two {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+}
+
+.tv_sekond {
+  height: 100px;
+  width: 580px;
+}
+
+.gif_sekond {
+  height: 350px;
+  width: 320px;
+}
+
+.flod_end {
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+ text-align: center;
+ padding-bottom: 70px;
+}
+
+.ask {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.net_closed {
+  padding: 20px 30px;
+  margin: 5px;
+  text-align: left;
+  width: 80%;
+  color: white;
+  background-color: gray;
+  font-size: 35px;
+}
+
+.net_open {
+  color: aqua;
+}

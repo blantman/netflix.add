@@ -1,0 +1,277 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: blue;
+    background-image: url(https://discord.com/assets/c2c1e3540ac7dc4fe0c0a7625bce975c.svg);
+    height: 700px;
+  }
+
+  .header_logo {
+    width: 170px;
+    height: 100px;
+    margin-right: 200px;
+  }
+
+  .info {
+    height: 40px;
+    margin: 0 280px;
+    width: 1300px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 180px;
+  }
+
+  .a_1 {
+    color: white;
+    font-size: 18px;
+    font-family: fantasy;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+
+  .enter_cta {
+    border-radius: 30px;
+    font-size: 15px;
+    color: black;
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 250px;
+  }
+
+  .helo {
+    height: 200px;
+    width: 880px;;
+    text-align: center;
+    align-items: center;
+    margin-left: 485px;
+    margin-bottom: 0;
+  }
+
+  .banner {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+  }
+
+  .banner_sub {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+
+  .button_type {
+    height: 100px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 610px;
+    margin-top: 0;
+  }
+
+  .cta_download_button {
+    border-radius: 30px;
+    margin: 10px;
+    color: black;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    padding: 18px 35px;
+    font-size: 18px;
+  }
+
+  .cta_browser {
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    padding: 18px 35px;
+    font-size: 18px;
+  }
+
+  .hints {
+    height: 600px;
+  }
+
+  .continer {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+  }
+
+  .text {
+    width: 300px;
+    height: 300px;
+    margin-right: 50px;
+  }
+
+  .pic {
+    width: 400px;
+    height: 300px;
+    margin-left: 300px;
+  }
+
+  .img {
+    width: 400px;
+    height: 300px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+h2 {
+  color: black;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.end_part {
+  height: 600px;
+  background-color: #23272a
+}
+
+.continer_info {
+  display: block;
+  justify-content: center;
+}
+
+
+.end_text {
+  height: 50px;
+  width: 350px;
+  margin-left: 250px;
+  padding-top: 100px;
+}
+
+.endtitle {
+  color: #7289da;
+  font-size: 37px;
+  font-family: monospace;
+  margin-top: 0;
+}
+
+.link_svg {
+  display: block;
+}
+
+.con_links {
+  display: flex;
+  justify-content: center;
+}
+
+.links_end {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 15px;
+  margin-right: 15px;
+}
+
+.linee {
+  border:1px solid white;
+}
+
+.line {
+  width: 1150px;
+  margin-left: 290px;
+  margin-top: 50px;
+  
+}
+
+.end_logo{
+  width: 1200px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 270px;
+  margin-top: 20px;
+} 
+
+.header_logo {
+  margin-top: -18px;
+}
+ 
+.button_register {
+  border-radius: 30px;
+  font-size: 15px;
+  color: white;
+  background-color: plum;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+} 
+
+.twitter_con {
+  display: flex;
+  margin-left: 240px;
+  margin-top: 40px;
+}
+
+.twiter {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.secthion {
+  height: 1400px;
+  background-color: silver;
+}
+
+.content {
+  display: block;
+  justify-content: center;
+}
+
+.last_pic {
+  display: flex;
+  justify-content: center;
+}
+
+.img_big {
+  width: 1000px;
+  height: 600px;
+  margin-right: 125px;
+  margin-bottom: 50px;
+}
+
+.text_big {
+  height: 190px;
+  width: 900px;
+  text-align: center;
+  margin-left: 400px;
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.enb_page {
+  display: block;
+  justify-content: center;
+  margin-top: 15px;
+  margin-left: 580px;
+  justify-items: center;
+}
+
+.end_button {
+  border-radius: 30px;
+  font-size: 30px;
+  padding: 8px 60px;
+  margin: 0 35px;
+  color: black;
+  background-color: purple;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+}
+
+

@@ -1,0 +1,332 @@
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: blue;
+  background-image: url(https://discord.com/assets/c2c1e3540ac7dc4fe0c0a7625bce975c.svg);
+  height: 700px;
+  padding: 0 400px;
+  margin: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.section {
+  height: 50px;
+  width: 350px;
+  display: inline-flex;
+}
+
+.logo {
+  margin: 20px -200px;
+}
+
+.header_logo {
+  width: 170px;
+  height: 100px;
+  margin: -15px;
+}
+
+.a_1 {
+  color: white;
+  font-size: 18px;
+  font-family: fantasy;
+  margin: 0 10px;
+  padding: 20px;
+  display: inline-block;
+  align-items: center;
+  text-decoration: none;
+}
+
+.enter_cta {
+  border-radius: 30px;
+  font-size: 25px;
+  color: black;
+  background-color: white;
+  border: none;
+  margin: 8px 200px;
+}
+
+.banner_title {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 55px;
+  text-align: center;
+  max-width: 230px 80px;
+  padding: 50px;
+}
+
+.banner_subtitle {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0;
+}
+
+.button_type {
+  height: 100px;
+  width: 1700px;
+  display: flex;
+  padding: 10px 180px;
+}
+
+.cta_download_button {
+  border-radius: 30px;
+  font-size: 30px;
+  padding: 5px 30px;
+  margin: 21px;
+  color: black;
+  background-color: white;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 5px 0 rgba(0, 0, 0, 0.51);
+}
+
+.cta_browser {
+  border-radius: 30px;
+  font-size: 25px;
+  padding: 5px 30px;
+  margin: 21px;
+  color: white;
+  background-color: black;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 5px 0 rgba(0, 0, 0, 0.51);
+}
+
+.img_two {
+  width: 500px;
+  height: 450px;
+  display: flex;
+  justify-items: left;
+  
+}
+
+.section_two {
+  height: 700px;
+  margin: 0;
+  background-color: white;
+}
+
+.text {
+  height: 380px;
+  width: 380px;
+  margin: 50px 1150px;
+  padding: 130px 0;
+}
+
+.banner_two {
+  color: black;
+  font-size: 48px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pic {
+  width: 500px;
+  height: 450px;
+  padding: 0 480px;
+  margin: -518px 0;
+}
+
+.subtitle_two {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.secthion_three {
+  height: 750px;
+  background-color: gray;
+}
+
+.text_three {
+  height: 490px;
+  width: 350px;
+  padding: 100px 380px;
+}
+
+.title_three {
+  margin-top: 100px;
+  color: black;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pic_two {
+  width: 400px;
+  height: 300px;
+  padding: 0 1390px;
+  margin: -490px -430px;
+}
+
+.secthion_four {
+  height:650px;
+  background-color: white;
+}
+
+.text_four {
+  height: 790px;
+  width: 500px;
+  padding: 120px 960px;
+}
+
+.pic_three {
+  width: 500px;
+  height: 450px;
+  padding: 0 310px;
+  margin: -900px 0;
+}
+
+.secthion_five {
+  height: 1400px;
+}
+
+.text_five {
+  height: 290px;
+  width: 900px;
+  padding: 0 480px;
+}
+
+.pic_five {
+  width: 850px;
+  height: 550px;
+}
+
+.img_five {
+  width: 1150px;
+  height: 650px;
+  padding: 0 330px;
+}
+
+.enb_page {
+  padding: 100px 650px;
+}
+
+.banner_end {
+  color: black;
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.end_button {
+  border-radius: 30px;
+  font-size: 30px;
+  padding: 8px 60px;
+  margin: 0 35px;
+  color: black;
+  background-color: purple;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 5px 0 rgba(0, 0, 0, 0.51);
+}
+
+.end_border {
+  background-color: #23272a;
+  height: 600px;
+}
+
+.last_h {
+  height: 90px;
+  width: 250px;
+  padding: 95px 200px;
+  display: flex;
+}
+
+.contacts {
+  color: blue;
+  margin: 0 135px;
+  font-size: 19px;
+}
+
+.cat {
+  color: purple;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 0 20px;
+}
+
+.block{
+  height: 350px;
+  width: 100px;
+  display: block;
+  padding: -300px 750px;
+  margin: -100px 450px;
+}
+
+.links {
+  color: blue;
+  padding: 100px 0;
+  margin: 100px 30px;
+  text-decoration: none;
+  font-size: 23px;
+  cursor: pointer;
+}
+
+.linee {
+  border:1px solid white;
+}
+
+.line {
+  width: 1150px;
+  padding: 50px 50px;
+  margin: 0 320px;
+}
+
+.end_logo{
+  margin: -60px 365px;
+}
+
+.register {
+  width: 100px;
+  height: 50px;
+  margin: 5px 1260px;
+}
+
+.button_register {
+  border-radius: 30px;
+  font-size: 15px;
+  color: white;
+  background-color: plum;
+  font-size: 18px;
+  padding: 10px 50px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 5px 0 rgba(0, 0, 0, 0.51);
+}
+
+.cards {
+  margin-left: 50px;
+  margin-top: 30px;
+  display: flex;
+}
+
+.card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.15);
+  width: 400px;
+  overflow: hidden;
+  margin-right: 30px;
+}
+
+.card__content {
+  padding: 16px;
+}
+
+.card__content h2 {
+  margin: 0;
+}
+
+.card__content p {
+  margin: 0;
+  margin-top: 5px;
+}
+
+.card img {
+  width: 100%;
+}
